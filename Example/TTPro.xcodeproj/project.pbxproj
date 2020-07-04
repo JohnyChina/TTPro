@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		1FEADA3CFEEAA9202F64BAE3 /* Pods-TTPro_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTPro_Example.debug.xcconfig"; path = "Target Support Files/Pods-TTPro_Example/Pods-TTPro_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		2476F29F3211E11559FEA044 /* TTPro.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TTPro.podspec; path = ../TTPro.podspec; sourceTree = "<group>"; };
+		2476F29F3211E11559FEA044 /* TTPro.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TTPro.podspec; path = ../TTPro.podspec; sourceTree = "<group>"; };
 		2C8954E87080C6AFB29A278C /* Pods_TTPro_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTPro_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		398F3D291C20498E9CC1D495 /* Pods-TTPro_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTPro_Example.release.xcconfig"; path = "Target Support Files/Pods-TTPro_Example/Pods-TTPro_Example.release.xcconfig"; sourceTree = "<group>"; };
 		4C9D8D8C98130836A5EFA8F6 /* Pods_TTPro_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTPro_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -64,8 +64,8 @@
 		6AEB3043FCB38D8F97E513DC /* Pods-TTPro_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTPro_Tests.release.xcconfig"; path = "Target Support Files/Pods-TTPro_Tests/Pods-TTPro_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B2E47A5D3056EE4C09BA75FA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		BBEB390B6C1F27889CA53E8E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B2E47A5D3056EE4C09BA75FA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		BBEB390B6C1F27889CA53E8E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D00CD860F1E1BF63B6CD5F06 /* Pods-TTPro_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTPro_Tests.debug.xcconfig"; path = "Target Support Files/Pods-TTPro_Tests/Pods-TTPro_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -193,7 +193,6 @@
 				D00CD860F1E1BF63B6CD5F06 /* Pods-TTPro_Tests.debug.xcconfig */,
 				6AEB3043FCB38D8F97E513DC /* Pods-TTPro_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -259,6 +258,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -303,10 +303,12 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-TTPro_Example/Pods-TTPro_Example-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
 				"${BUILT_PRODUCTS_DIR}/TTPro/TTPro.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TTPro.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -516,6 +518,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TTPro/TTPro-Prefix.pch";
 				INFOPLIST_FILE = "TTPro/TTPro-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -532,6 +535,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TTPro/TTPro-Prefix.pch";
 				INFOPLIST_FILE = "TTPro/TTPro-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";

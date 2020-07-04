@@ -1,0 +1,6 @@
+framework module TTPro {
+  umbrella header "TTPro-umbrella.h"
+
+  export *
+  module * { export * }
+}

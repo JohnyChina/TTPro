@@ -1,0 +1,6 @@
+framework module Pods_TTPro_Tests {
+  umbrella header "Pods-TTPro_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
