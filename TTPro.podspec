@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TTPro'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'this is a test project,TTPro.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,11 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'TTPro/Classes/**/*'
+#  s.source_files = 'TTPro/Classes/**/*'
+
+  s.subspec 'TTAlert' do |ss|
+      ss.source_files = 'TTPro/Classes/TTAlert/*.{h,m}'
+  end
   
   # s.resource_bundles = {
   #   'TTPro' => ['TTPro/Assets/*.png']

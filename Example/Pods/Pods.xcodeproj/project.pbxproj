@@ -122,18 +122,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		008B6F7A49690CAE51ED69EE2B3F788F /* TTAlertView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TTAlertView.m; path = TTPro/Classes/TTAlertView.m; sourceTree = "<group>"; };
+		008B6F7A49690CAE51ED69EE2B3F788F /* TTAlertView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TTAlertView.m; sourceTree = "<group>"; };
 		02D8FE91320683600BBDF1B42A33E960 /* Pods-TTPro_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TTPro_Example.modulemap"; sourceTree = "<group>"; };
 		0CFEDE8B35B288FEA1F376F3A82BB64D /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		0DD6713F88FBF7B9DFD6B109FDF7A4A6 /* Pods-TTPro_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTPro_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		138820E6ABF43C79FC8A5294AEE3D2F8 /* Pods-TTPro_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TTPro_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		17BE2F0A926FD5C7CA35CE1F35B4515A /* UIWebView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIWebView+AFNetworking.m"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.m"; sourceTree = "<group>"; };
 		1CFABF7FFFF32C5F03099BBA2BF4C16B /* UIButton+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+AFNetworking.h"; path = "UIKit+AFNetworking/UIButton+AFNetworking.h"; sourceTree = "<group>"; };
-		22006B3CCFF3D327F7495F0851356F91 /* TTPro.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TTPro.framework; path = TTPro.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		22006B3CCFF3D327F7495F0851356F91 /* TTPro.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TTPro.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		249C5F77CA4A7A552FE9A80992FB9814 /* UIKit+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIKit+AFNetworking.h"; path = "UIKit+AFNetworking/UIKit+AFNetworking.h"; sourceTree = "<group>"; };
 		2704E26D25401A66ED088923CA65E636 /* Pods-TTPro_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTPro_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		2930897DE0D094FE292E242CEB3DD349 /* Pods-TTPro_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TTPro_Tests.modulemap"; sourceTree = "<group>"; };
-		2A80EF6A226D6DC58D6B4E13A0740924 /* Pods_TTPro_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TTPro_Example.framework; path = "Pods-TTPro_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A80EF6A226D6DC58D6B4E13A0740924 /* Pods_TTPro_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTPro_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AE00F33B1A643E1F0C705D9C4AAF939 /* TTPro.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TTPro.release.xcconfig; sourceTree = "<group>"; };
 		2B896674C79248C1E74C793473C675B4 /* UIRefreshControl+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIRefreshControl+AFNetworking.m"; path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.m"; sourceTree = "<group>"; };
 		2C1B8176293792076FA1A47C086344CC /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -146,10 +146,10 @@
 		3B6C3D7E3487E98E60E0F6128A34B9F0 /* UIImageView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+AFNetworking.m"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.m"; sourceTree = "<group>"; };
 		3D7BA1C71445530C217A0A66B00DCFA9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		3EADBF4BEDB83E00CDE93223EA89907A /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
-		3FEF99CA1FF4B2685CA217A6C83E9EDF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		3FEF99CA1FF4B2685CA217A6C83E9EDF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		41D2F61B02293C4A4AAAD0BF4E8C4E72 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 		4401C15B91391317AADD4F9A81B8E731 /* FBSnapshotTestCase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.debug.xcconfig; sourceTree = "<group>"; };
-		44B3DAF4CD7D59F7B4EF02E81C7B60A5 /* Pods_TTPro_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TTPro_Tests.framework; path = "Pods-TTPro_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		44B3DAF4CD7D59F7B4EF02E81C7B60A5 /* Pods_TTPro_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTPro_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		454A1E24BC6159BC57B40CB857DE5BF0 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLRequestSerialization.h; path = AFNetworking/AFURLRequestSerialization.h; sourceTree = "<group>"; };
 		4B1C94A34F343B1B6D995F0D42B9E92A /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
 		4B59D173CEBBAAAF3C26F265EA4D034F /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
@@ -164,7 +164,7 @@
 		570CEF3FA691D146CFF49CD2E967D12B /* Pods-TTPro_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTPro_Tests-umbrella.h"; sourceTree = "<group>"; };
 		574D2387CAAFCBE87B8CF9B2AAC07480 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		597CDA63DDEF1C5657378417753FF329 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
-		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E4037AC0C56308FFD3D45EFB8271991 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		62C207A82466B9A68DEE022F83FBD7A4 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		65241C5075CAB31E796B62997FE642B4 /* TTPro-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TTPro-umbrella.h"; sourceTree = "<group>"; };
@@ -176,11 +176,11 @@
 		6D6BA38958AF45A89FCA35184F1FC57F /* AFCompatibilityMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFCompatibilityMacros.h; path = AFNetworking/AFCompatibilityMacros.h; sourceTree = "<group>"; };
 		70F992A860DA7F30C7D0EDD9FF519467 /* UIActivityIndicatorView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIActivityIndicatorView+AFNetworking.h"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"; sourceTree = "<group>"; };
 		727BEB13A067CB8EF0C871379CE139C3 /* AFAutoPurgingImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFAutoPurgingImageCache.h; path = "UIKit+AFNetworking/AFAutoPurgingImageCache.h"; sourceTree = "<group>"; };
-		72BA47772446D86726EC05C347F2EFD8 /* TTPro.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TTPro.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		72BA47772446D86726EC05C347F2EFD8 /* TTPro.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = TTPro.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		73296079D0C246A4B0E3024F90C0EDC4 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFHTTPSessionManager.h; path = AFNetworking/AFHTTPSessionManager.h; sourceTree = "<group>"; };
 		73DC84E9B7A0715284ABE14B09AAA5B9 /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLRequestSerialization.m; path = AFNetworking/AFURLRequestSerialization.m; sourceTree = "<group>"; };
 		77D9107B41B4544D627D1B521B81167B /* Pods-TTPro_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TTPro_Example-frameworks.sh"; sourceTree = "<group>"; };
-		7B23240D0AFEBCB7F2EAC9D7DC6BB505 /* TTAlertView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TTAlertView.h; path = TTPro/Classes/TTAlertView.h; sourceTree = "<group>"; };
+		7B23240D0AFEBCB7F2EAC9D7DC6BB505 /* TTAlertView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TTAlertView.h; sourceTree = "<group>"; };
 		7E7643F8C7D54AB4C860694FDB777283 /* AFNetworking-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "AFNetworking-Info.plist"; sourceTree = "<group>"; };
 		86452568F6AE12D7FBE3A466C0336861 /* Pods-TTPro_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TTPro_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		879A06E8110CC7393B5123FB6158CC5B /* UIImageView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+AFNetworking.h"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.h"; sourceTree = "<group>"; };
@@ -191,9 +191,9 @@
 		9553F1934594A34E89E70C7C077BFA0A /* AFURLSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLSessionManager.m; path = AFNetworking/AFURLSessionManager.m; sourceTree = "<group>"; };
 		960F29DC298039751D8E590142E260A3 /* Pods-TTPro_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TTPro_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9C47633E7FBE4B1389A2695FC638933D /* AFNetworking.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AFNetworking.debug.xcconfig; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A1328EDD9B05ECCBD018BE5861F955C7 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLResponseSerialization.m; path = AFNetworking/AFURLResponseSerialization.m; sourceTree = "<group>"; };
-		A4FA15D44DF6BAC7550EDEED10862AA3 /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AFNetworking.framework; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4FA15D44DF6BAC7550EDEED10862AA3 /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A61D6D98F6F995A3295010F3D8ECD2F4 /* UIActivityIndicatorView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIActivityIndicatorView+AFNetworking.m"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m"; sourceTree = "<group>"; };
 		A82F633A2B1C27A776DBDCD6B904DEBE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
 		A8D9825269A27EB76949F8F6EF9F3248 /* AFImageDownloader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFImageDownloader.h; path = "UIKit+AFNetworking/AFImageDownloader.h"; sourceTree = "<group>"; };
@@ -219,7 +219,7 @@
 		DFA70B8C899B7D0FEE27B1947D2EEC31 /* Pods-TTPro_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TTPro_Tests-dummy.m"; sourceTree = "<group>"; };
 		E0A36CB5EE1B217022E62C1DBCC9191A /* UIProgressView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIProgressView+AFNetworking.m"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.m"; sourceTree = "<group>"; };
 		E24E2070766174D1F99E3ED37C5F8312 /* TTPro-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TTPro-prefix.pch"; sourceTree = "<group>"; };
-		E3B7C4F481584B5C9226E69F2D0F8551 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		E3B7C4F481584B5C9226E69F2D0F8551 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		E3DD4F828B376A64624A10A217CDFD82 /* TTPro.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TTPro.debug.xcconfig; sourceTree = "<group>"; };
 		EC7C7D1B0A1E8C3E4C3DA69371809C0A /* Pods-TTPro_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TTPro_Example-umbrella.h"; sourceTree = "<group>"; };
 		ED02F6157A82AE73285D3E87AEA42536 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
@@ -369,15 +369,13 @@
 				C6FD7D7AD9C24B2DE537452D914F2B34 /* Support Files */,
 				1EBB16CC52AEC48C76461594A8551B52 /* SwiftSupport */,
 			);
-			name = FBSnapshotTestCase;
 			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
 		36FBD2238B794AFA28FA950738C47DC3 /* TTPro */ = {
 			isa = PBXGroup;
 			children = (
-				7B23240D0AFEBCB7F2EAC9D7DC6BB505 /* TTAlertView.h */,
-				008B6F7A49690CAE51ED69EE2B3F788F /* TTAlertView.m */,
+				AFD4D6EF24B30F1C00C9A339 /* TTAlert */,
 				849E958DFBC52E7A2DD1A876FB352D17 /* Pod */,
 				AD61A466770A3B02CDB7CAB58921EDC8 /* Support Files */,
 			);
@@ -405,7 +403,6 @@
 				AC894622848712E5C2C964E1E19412BD /* Support Files */,
 				A8D96B9D6FAAACF20B589BBC1BA9A1F9 /* UIKit */,
 			);
-			name = AFNetworking;
 			path = AFNetworking;
 			sourceTree = "<group>";
 		};
@@ -500,6 +497,15 @@
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/TTPro";
+			sourceTree = "<group>";
+		};
+		AFD4D6EF24B30F1C00C9A339 /* TTAlert */ = {
+			isa = PBXGroup;
+			children = (
+				7B23240D0AFEBCB7F2EAC9D7DC6BB505 /* TTAlertView.h */,
+				008B6F7A49690CAE51ED69EE2B3F788F /* TTAlertView.m */,
+			);
+			path = TTAlert;
 			sourceTree = "<group>";
 		};
 		C6FD7D7AD9C24B2DE537452D914F2B34 /* Support Files */ = {
@@ -1102,8 +1108,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

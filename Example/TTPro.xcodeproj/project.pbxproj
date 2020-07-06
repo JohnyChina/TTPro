@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		1FEADA3CFEEAA9202F64BAE3 /* Pods-TTPro_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTPro_Example.debug.xcconfig"; path = "Target Support Files/Pods-TTPro_Example/Pods-TTPro_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		2476F29F3211E11559FEA044 /* TTPro.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TTPro.podspec; path = ../TTPro.podspec; sourceTree = "<group>"; };
+		2476F29F3211E11559FEA044 /* TTPro.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TTPro.podspec; path = ../TTPro.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2C8954E87080C6AFB29A278C /* Pods_TTPro_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTPro_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		398F3D291C20498E9CC1D495 /* Pods-TTPro_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TTPro_Example.release.xcconfig"; path = "Target Support Files/Pods-TTPro_Example/Pods-TTPro_Example.release.xcconfig"; sourceTree = "<group>"; };
 		4C9D8D8C98130836A5EFA8F6 /* Pods_TTPro_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TTPro_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
